@@ -29,7 +29,7 @@ function MainCard2() {
         <div className='left_side'>
                 <CarName car_name="Nizan GTR"/>
                 <div> 
-                <img alt ="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uXw6eDbBGZZ6ek3Ta3SWXULTlDAGEdEJgg&usqp=CAU"/>
+                <img className='pb-20 pt-8' alt ="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8uXw6eDbBGZZ6ek3Ta3SWXULTlDAGEdEJgg&usqp=CAU"/>
                 </div>
 
                 <PriceArea price="$187,900"/>
