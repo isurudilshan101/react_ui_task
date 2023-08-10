@@ -12,7 +12,7 @@ function CarName({car_name}) {
 
 
         <div className='_car_name'> 
-            <h1 class="text-xl font-bold text-black">{car_name} </h1>
+            <h1 class="text-sm font-bold text-black">{car_name} </h1>
 
             
             <h3 class="text-pink-500">Evaque</h3>

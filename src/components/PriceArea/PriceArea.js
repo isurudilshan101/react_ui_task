@@ -12,8 +12,6 @@ function PriceArea({price}) {
             <h3 className="text-pink-500">USD</h3>
         </div>
         
-         
-
     </div>
   )
 }
