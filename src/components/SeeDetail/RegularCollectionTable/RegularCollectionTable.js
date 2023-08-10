@@ -45,7 +45,7 @@ const TABLE_ROWS = [
  
 export function RegularCollectionTable() {
   return (
-    <Card className="h-full w-full overflow-scroll">
+    <Card className="w-full">
       <table className="w-full min-w-max table-auto text-left">
         <thead>
           <tr>

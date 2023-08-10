@@ -3,7 +3,7 @@ import Notification from '../Notification/Notification'
 
 function FirstHeading() {
   return (
-    <div>
+    
          <div className="heading_container">
         <div><img src="images/logo_zart.PNG" alt="aa"></img>
         
@@ -15,8 +15,8 @@ function FirstHeading() {
         </div>
 
     </div>
-    <hr></hr>
-    </div>
+   
+     
 
    
   )
