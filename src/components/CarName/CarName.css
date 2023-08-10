@@ -1,0 +1,6 @@
+.car_name_container{
+   
+    gap: 10px;
+    display: flex;
+    align-items: center;  
+}

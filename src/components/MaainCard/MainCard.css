@@ -1,0 +1,9 @@
+ .main_class_container{
+    display: flex;
+    gap: 55px;
+ }
+
+ .four_cards{
+    display: flex;
+    gap: 15px;
+ }

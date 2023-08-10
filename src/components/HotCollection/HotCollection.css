@@ -1,0 +1,4 @@
+.hot_collection_container{
+    display: flex;
+    gap: 12px;
+}

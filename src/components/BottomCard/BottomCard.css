@@ -1,0 +1,10 @@
+.bottom_card_container{
+   
+    gap: 10px;
+    display: flex;
+    align-items: center;  
+}
+
+.total_run{
+    display: flex;
+}
